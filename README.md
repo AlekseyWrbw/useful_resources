@@ -14,3 +14,9 @@ https://www.kaggle.com/
 AI браузер
 
 https://program.pinokio.computer/#/?id=install
+
+Яндекс браузер умеет саммаризировать большие тексты в формате txt
+
+https://huggingface.co - латформа с моделями машинного обучения
+
+https://theresanaiforthat.com/ - библиотека AI сервисов
