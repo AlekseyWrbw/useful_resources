@@ -20,3 +20,5 @@ https://program.pinokio.computer/#/?id=install
 https://huggingface.co - латформа с моделями машинного обучения
 
 https://theresanaiforthat.com/ - библиотека AI сервисов
+
+https://github.com/wisoffe/Courses - много материала по машинному обучению
