@@ -172,6 +172,7 @@ grpc python. Продолжил текст
 Изучал рынок. Погрузился в Kafka + Confluent Schema Registry + Avro
 08.02
 Ничего не делал
-09.02
-Книги python
+10.02
+аботал с докером
+
 
