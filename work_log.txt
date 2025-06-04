@@ -385,3 +385,5 @@ sql
 Пытаюсь стартовать postgresql
 03.06
 Текст и работа с postgresql
+04.06
+Разобрался с postgresql
