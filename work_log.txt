@@ -387,3 +387,5 @@ sql
 Текст и работа с postgresql
 04.06
 Разобрался с postgresql
+06.06
+playwright
