@@ -389,3 +389,5 @@ sql
 Разобрался с postgresql
 06.06
 playwright
+08.06
+playwright
